@@ -1,0 +1,29 @@
+@import "~antd/dist/antd.css";
+
+.menu {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  color: black;
+  background-color: #292C32;
+  font-size:40px;
+  font-weight: 400;
+  width: 100%;
+  height: 6rem;
+  top: 0;
+  border-bottom: 0.1px solid #292C32;
+  padding: 1rem 2rem
+  
+}
+
+.menu__logo {
+
+  font-size: 2rem;
+  
+  color: black;
+}
+
+.menu__container{
+ color:black;
+}
